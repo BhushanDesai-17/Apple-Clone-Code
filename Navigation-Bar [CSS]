@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 44px;
+    padding: 0px 20px;
+    background-color: #FFFFFFCC;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+}
+
+.logo .icons {
+    width: 40px;
+    text-align: center; 
+}
