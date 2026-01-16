@@ -1,0 +1,14 @@
+.section-content {
+    height: 44.58px;
+    width: 1340px;
+    color: #1D1D1F;
+    background-color: rgb(252,249,249);
+}
+
+.shop-ribbon-copy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    font: 14px;
+}
