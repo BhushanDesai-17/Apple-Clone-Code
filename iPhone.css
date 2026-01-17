@@ -1,0 +1,55 @@
+
+.iPhone {
+    height: 580px;
+    width: 1340px;
+    background-color: rgb(252,249,249);
+    text-align: center;
+}
+
+p {
+    font-size: 50px;
+    padding-top: 25px;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 30px;
+    font-weight: 350;
+    padding-bottom: 25px;
+}
+
+.button1 {
+    background-color: #0071E3;
+    color: white;
+    font-size: 17px;
+    border: none;
+    padding: 11px 21px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.button2 {
+    font-size: 17px;
+    color: blue;
+    padding: 11px 21px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border: 2px solid blue;
+    margin-left: 10px;
+}
+
+.button2:hover {
+    background-color: blue;
+    color: white;
+}
+
+.iphone-images {
+    height: 360px;
+    width: 600px;
+    margin-left: 360px;
+    background-image: url(Gemini_Generated_Image_iii5ruiii5ruiii5-removebg-preview.png);
+}
